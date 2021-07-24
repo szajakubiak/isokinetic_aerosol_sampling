@@ -1,2 +1,2 @@
 # Isokinetic aerosol sampling
-Calculate sampler diameter to sample aerosol particles isokinetically
+Calculate probe diameter to sample aerosol particles isokinetically
